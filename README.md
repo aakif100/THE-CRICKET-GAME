@@ -23,3 +23,8 @@ The Cricket Game, also known as Hand Cricket, is a web-based implementation of t
 - HTML
 - CSS
 - Vanilla JavaScript
+
+## Credits
+
+- Created by AAKIF MOHAMED
+- Inspired by the classic hand cricket game played in schools.
