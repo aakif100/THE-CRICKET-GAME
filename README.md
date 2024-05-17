@@ -12,3 +12,8 @@ The Cricket Game, also known as Hand Cricket, is a web-based implementation of t
 - **Choice of Batting or Bowling:** The player who wins the odd/even toss gets to choose batting or bowling.
 - **Batting:** The batting player scores runs by showing random numbers.
 - **Bowling:** The bowling player tries to dismiss the batsman by showing random numbers. If the numbers match, the batsman is out.
+
+1. Open the index.html file in your web browser.
+2. Choose whether you want to play as odd or even.
+3. Follow the on-screen instructions to play the game.
+4. Enjoy the cricket experience!
