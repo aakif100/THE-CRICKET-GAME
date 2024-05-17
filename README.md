@@ -17,3 +17,9 @@ The Cricket Game, also known as Hand Cricket, is a web-based implementation of t
 2. Choose whether you want to play as odd or even.
 3. Follow the on-screen instructions to play the game.
 4. Enjoy the cricket experience!
+
+## Technologies Used
+
+- HTML
+- CSS
+- Vanilla JavaScript
