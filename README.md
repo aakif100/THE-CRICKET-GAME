@@ -1,1 +1,1 @@
-# THE-CRICKET-GAME
+# The Cricket Game (Hand Cricket)
