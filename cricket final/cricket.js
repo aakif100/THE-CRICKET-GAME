@@ -1,7 +1,7 @@
 let odd = document.querySelector(".odd");
 
 let even = document.querySelector(".even");
-
+let odd2 = document.querySelector(".alala");
 
 let button = document.querySelectorAll("button");
 
